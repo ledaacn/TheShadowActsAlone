@@ -1,4 +1,4 @@
-# TheShadowActsAlone
+# The Shadow Acts Alone
 The Final Project
 ## Short Description
 An interactive installation where your digital shadow gradually stops obeying you and begins to act on its own.
@@ -30,3 +30,27 @@ Rather than presenting complete loss of control, the project creates a small ten
 7.Run the project.
 
 8.Send the final output to the projector and switch to full-screen mode to begin the interaction.
+## Requirements
+
+### Hardware
+
+* Windows PC with a dedicated GPU
+* Kinect v2 (Kinect for Xbox One)
+* Kinect power adapter and USB connection
+* Projector
+* Projection screen or large white surface
+* HDMI or DisplayPort cable for projector connection
+
+### Software
+
+* TouchDesigner
+* Kinect for Windows SDK 2.0
+* Required Kinect drivers
+* Project project files and media assets
+
+### Recommended Setup
+
+* Enough open space for participants to move freely
+* Kinect positioned above or near the projection screen
+* Participants should remain within the Kinect tracking range
+* Best experience with approximately 1–4 participants at a time
