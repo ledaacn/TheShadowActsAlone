@@ -14,4 +14,19 @@ The work uses an intentionally minimal visual language — a black background an
 Rather than presenting complete loss of control, the project creates a small tension between obedience and autonomy, asking a simple question:
 
 **What happens when your reflection begins to have a mind of its own?**
+## How to Run / Install
+1.Mount the Kinect in a suitable position above the projection screen so it can clearly track participants’ full bodies.
 
+2.Position the projector so that the image is correctly aligned with the screen.
+
+3.Download and install the required software and drivers.
+
+4.Open the project software.
+
+5.Connect the Kinect and projector to the computer.
+
+6.Check that the Kinect is tracking participants correctly and that the projector is working as the display output.
+
+7.Run the project.
+
+8.Send the final output to the projector and switch to full-screen mode to begin the interaction.
