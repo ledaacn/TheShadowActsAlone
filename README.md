@@ -1,7 +1,9 @@
 # The Shadow Acts Alone
 The Final Project
+
 ## Short Description
 An interactive installation where your digital shadow gradually stops obeying you and begins to act on its own.
+
 ## Concept
 This project explores the unstable relationship between the physical body and its digital reflection.
 
@@ -14,6 +16,7 @@ The work uses an intentionally minimal visual language — a black background an
 Rather than presenting complete loss of control, the project creates a small tension between obedience and autonomy, asking a simple question:
 
 **What happens when your reflection begins to have a mind of its own?**
+
 ## How to Run / Install
 1.Mount the Kinect in a suitable position above the projection screen so it can clearly track participants’ full bodies.
 
@@ -30,6 +33,7 @@ Rather than presenting complete loss of control, the project creates a small ten
 7.Run the project.
 
 8.Send the final output to the projector and switch to full-screen mode to begin the interaction.
+
 ## Requirements
 
 ### Hardware
